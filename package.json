@@ -1,0 +1,15 @@
+{
+  "name": "brackets-json2ts",
+  "title": "json2ts for Brackets",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/GregorBiswanger/Brackets-json2ts",
+  "author": "Gregor Biswanger <gregor.biswanger@web-enliven.de> (http://about.me/gregor.biswanger)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.6.0"
+  },
+  "dependencies": {
+    "copy-paste": "^1.1.4"
+  }
+}
